@@ -1,0 +1,4 @@
+search_bar_text_box_element:
+  id: "twotabsearchtextbox"
+search_bar_submit_element:
+  id: "nav-search-submit-button"
